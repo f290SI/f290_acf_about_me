@@ -110,7 +110,7 @@ Widget build(BuildContext context) {
 
 5. Execute o aplicativo ou teste no dartpad.dev para visualizar o `content area` da propriedade **body** conteúdo do Scaffold e os demais componentes adicionados.
 
-![](assets/scaffold.png)
+<img src="assets/scaffold.png" height="500">
 
 > Chegando a este step, aproveite para testar o Hot Reload e Hot Restart; altere o título da AppBar, o conteudo no Body, altere a cor do App e visualize.
 
@@ -216,9 +216,11 @@ Drawer(
 
 5. Este será o resultado final, mas com os seus dados.
 
-![](assets/app.png)
+<img src="assets/app.png" height="500">
 
-![](assets/drawer.png)
+
+<img src="assets/scaffold.png" height="500">
+
 
 
 
